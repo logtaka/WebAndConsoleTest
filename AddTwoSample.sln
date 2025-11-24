@@ -1,0 +1,36 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AddTwoShared", "AddTwoShared\\AddTwoShared.csproj", "{6C974B58-A6D6-417B-9063-9030C31EDDD8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AddTwoConsole", "AddTwoConsole\\AddTwoConsole.csproj", "{D3050FAA-AC49-4AF7-B5B6-E973C918574E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AddTwoBlazor", "AddTwoBlazor\\AddTwoBlazor.csproj", "{FD9D0C9D-4968-4BAC-8E0B-F39559C99A34}"
+EndProject
+Global
+GlobalSection(SolutionConfigurationPlatforms) = preSolution
+Debug|Any CPU = Debug|Any CPU
+Release|Any CPU = Release|Any CPU
+EndGlobalSection
+GlobalSection(ProjectConfigurationPlatforms) = postSolution
+{6C974B58-A6D6-417B-9063-9030C31EDDD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+{6C974B58-A6D6-417B-9063-9030C31EDDD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+{6C974B58-A6D6-417B-9063-9030C31EDDD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+{6C974B58-A6D6-417B-9063-9030C31EDDD8}.Release|Any CPU.Build.0 = Release|Any CPU
+{D3050FAA-AC49-4AF7-B5B6-E973C918574E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+{D3050FAA-AC49-4AF7-B5B6-E973C918574E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+{D3050FAA-AC49-4AF7-B5B6-E973C918574E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+{D3050FAA-AC49-4AF7-B5B6-E973C918574E}.Release|Any CPU.Build.0 = Release|Any CPU
+{FD9D0C9D-4968-4BAC-8E0B-F39559C99A34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+{FD9D0C9D-4968-4BAC-8E0B-F39559C99A34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+{FD9D0C9D-4968-4BAC-8E0B-F39559C99A34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+{FD9D0C9D-4968-4BAC-8E0B-F39559C99A34}.Release|Any CPU.Build.0 = Release|Any CPU
+EndGlobalSection
+GlobalSection(SolutionProperties) = preSolution
+HideSolutionNode = FALSE
+EndGlobalSection
+GlobalSection(ExtensibilityGlobals) = postSolution
+SolutionGuid = {48D2E81E-F21B-4CF9-8C43-6DD180207DDD}
+EndGlobalSection
+EndGlobal
